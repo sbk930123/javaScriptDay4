@@ -1,0 +1,20 @@
+body {
+  font-size: 16px;
+}
+
+.blue {
+  background-color: deepskyblue;
+}
+
+.yellow {
+  background-color: khaki;
+}
+
+.grey {
+  background-color: lightgrey;
+}
+
+.bold-text {
+  font-weight: bolder;
+  color: black;
+}
